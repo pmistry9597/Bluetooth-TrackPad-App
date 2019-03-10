@@ -10,7 +10,3 @@ the list of paired devices so the user can select the right device. I might make
 
 Also, I'm using the Samsung Galaxy 2 7.0 with Android 4.0 to test this app. I encountered errors on other, newer phones with trying 
 to retrieve the default Bluetooth Adapter (would return null).
-
-## Sick Ass Llama
-
-<img src="https://yt3.ggpht.com/-WOwzQN9gYbw/AAAAAAAAAAI/AAAAAAAAAAA/B_lwQlVpjCw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" />
